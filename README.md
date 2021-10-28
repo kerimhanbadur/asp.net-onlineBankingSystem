@@ -1,5 +1,5 @@
 ### Welcome to my "asp.net-onlineBankingSystem"
-[![Image of the Project](obAspNet-kb.png "asp.net-onlineBankingSystem")]
+![Image of the Project](obAspNet-kb.png "asp.net-onlineBankingSystem")
 
 <a id="raw-url" href="https://github.com/kerimhanbadur/compilerForKids/blob/master/kodlamaOgreniyorumSetup.exe">Download Exe File</a> <br>
 <a id="vid-url" href="https://youtu.be/MxVd9ygpork">Watch The Video</a>
